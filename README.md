@@ -8,3 +8,10 @@ step3: Then import the following:
                                   from PIL import ImageTk, Image
                                   from pandas import np
 now run the main.py file
+
+
+
+
+
+For other project related details like : Synopsis, Report, PPT 
+      contact:anuroy6000@gmail.com
