@@ -1,0 +1,11 @@
+		YOUR GROCERY BILL		
+		-----------------------------		
+2021/6/28			21:41
+Product name				|Price
+jam			                                                110
+
+Payable Amount:	45.0
+
+
+		         Thank You For Shopping		
+			Visit Againg		
